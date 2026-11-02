@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  .nav-links {
+    display: none; /* hide menu on small screens */
+  }
+
+  .hero {
+    padding: 3rem 1rem;
+    font-size: 1.2rem;
+  }
+
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+}
+
